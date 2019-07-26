@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ColorDetectDemo</string>
+    <string name="getVersion">查看OpenCV版本</string>
+</resources>

@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/item_0"
+        android:orderInCategory="100"
+        android:title="选择图片"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/item_1"
+        android:orderInCategory="100"
+        android:title="打开相机"
+        app:showAsAction="never" />
+
+
+</menu>
